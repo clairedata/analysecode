@@ -1,0 +1,1 @@
+"""Adaptateurs d'outils concrets."""
