@@ -127,4 +127,4 @@ C'est le cerveau de l'agent. Cette étape orchestre la réflexion et l'action au
   uv run pytest tests/domain/test_security.py
   ```
 
-  ## modifier les commande git
+  ## modifier les commandes gits commandes
